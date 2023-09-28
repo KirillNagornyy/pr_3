@@ -7,9 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "Hello World!2\n";
-	//trysxtfdfgtu
-	//kjhiwehifwf
-	//odjksjiowhiuf
+	//trysxtfdfgtufdyug
 	std::cout << "Hello World!3\n";
 	std::cout << "Hello World!4\n";
 }
