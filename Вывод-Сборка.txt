@@ -1,0 +1,6 @@
+﻿1>------ Сборка начата: проект: PR_N3, Конфигурация: Debug Win32 ------
+1>ConsoleApplication1.cpp
+1>MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+1>D:\pr_N3\ConsoleApplication1\Debug\PR_N3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+1>Сборка проекта "PR_N3.vcxproj" завершена с ошибкой.
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
